@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://images.squarespace-cdn.com/content/5af5d75b3917ee712841ab87/1526068250435-CS52NVVSBIYTBG1C6LBG/XCFCLogoPlain.png?content-type=image%2Fpng);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color:white;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
